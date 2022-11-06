@@ -85,10 +85,11 @@ footer{
   }
 
   .box:last-child{
+    width: 90%;
+    max-width: 90%;
     margin-bottom: 0;
-    margin-right: auto;
+    margin: auto;
   }
-
 
   footer{
     width: 100%;
