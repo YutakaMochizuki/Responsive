@@ -66,10 +66,9 @@ footer{
   background-color: #aaa;
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 768px){
   header{
     width: 100%;
-
   }
 
   main{
@@ -88,7 +87,7 @@ footer{
     width: 90%;
     max-width: 90%;
     margin-bottom: 0;
-    margin: auto;
+    margin-right: auto;
   }
 
   footer{
